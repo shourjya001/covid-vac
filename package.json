@@ -1,0 +1,13 @@
+{
+  "name": "covid-vaccination-booking",
+  "version": "1.0.0",
+  "description": "COVID Vaccination Booking Web Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
